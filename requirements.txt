@@ -1,0 +1,6 @@
+flask 
+google-generativeai 
+flask-cors 
+langdetect 
+requests 
+cachetools

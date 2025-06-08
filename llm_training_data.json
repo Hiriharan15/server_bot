@@ -1,0 +1,400 @@
+{
+    "examples":
+    [
+    {
+        "question": "What is the historical significance of Brihadeeswarar Temple?",
+        "answer": "Built by Raja Raja Chola I in the 11th century, this UNESCO World Heritage site represents Dravidian architecture."
+    },
+    {
+        "question": "Where is Brihadeeswarar Temple located?",
+        "answer": "Brihadeeswarar Temple is located in Thanjavur."
+    },
+    {
+        "question": "What are the key attractions of Brihadeeswarar Temple?",
+        "answer": "Towering Vimana, massive Nandi statue"
+    },
+    {
+        "question": "What is the best time to visit Brihadeeswarar Temple?",
+        "answer": "6:00 AM - 12:00 PM, 4:00 PM - 8:00 PM"
+    },
+    {
+        "question": "What is the entry fee for Brihadeeswarar Temple?",
+        "answer": "The entry fee is ₹50"
+    },
+    {
+        "question": "What local items can I buy near Brihadeeswarar Temple?",
+        "answer": "Tanjore Paintings, Brass Lamps"
+    },
+    {
+        "question": "What are the nearby food recommendations around Brihadeeswarar Temple?",
+        "answer": "Sree Annapoorna Hotel, Thanjur Mess"
+    },
+    {
+        "question": "What are the cultural etiquette guidelines for visiting Brihadeeswarar Temple?",
+        "answer": "Wear traditional attire for temple visits"
+    },
+    {
+        "question": "What are some fun facts about Brihadeeswarar Temple?",
+        "answer": "The shadow of the temple’s Vimana never falls on the ground at noon!"
+    },
+    {
+        "question": "What is the historical significance of Meenakshi Amman Temple?",
+        "answer": "A 2,500-year-old temple dedicated to Goddess Meenakshi, showcasing intricate sculptures and architecture."
+    },
+    {
+        "question": "Where is Meenakshi Amman Temple located?",
+        "answer": "Meenakshi Amman Temple is located in Madurai."
+    },
+    {
+        "question": "What are the key attractions of Meenakshi Amman Temple?",
+        "answer": "Thousand Pillar Hall, Golden Lotus Tank"
+    },
+    {
+        "question": "What is the best time to visit Meenakshi Amman Temple?",
+        "answer": "5:00 AM - 12:30 PM, 4:00 PM - 10:00 PM"
+    },
+    {
+        "question": "What is the entry fee for Meenakshi Amman Temple?",
+        "answer": "The entry fee is ₹100"
+    },
+    {
+        "question": "What local items can I buy near Meenakshi Amman Temple?",
+        "answer": "Madurai Silk Sarees"
+    },
+    {
+        "question": "What are the nearby food recommendations around Meenakshi Amman Temple?",
+        "answer": "Amma Mess, Murugan Idli Shop"
+    },
+    {
+        "question": "What are the cultural etiquette guidelines for visiting Meenakshi Amman Temple?",
+        "answer": "Remove footwear before entering temple"
+    },
+    {
+        "question": "What are some fun facts about Meenakshi Amman Temple?",
+        "answer": "The temple has 33,000 sculptures depicting various gods, goddesses, and celestial beings."
+    },
+    {
+        "question": "What is the historical significance of Mahabalipuram Shore Temple?",
+        "answer": "A 7th-century architectural marvel built by the Pallavas, part of the UNESCO World Heritage group of monuments."
+    },
+    {
+        "question": "Where is Mahabalipuram Shore Temple located?",
+        "answer": "Mahabalipuram Shore Temple is located in Chengalpattu."
+    },
+    {
+        "question": "What are the key attractions of Mahabalipuram Shore Temple?",
+        "answer": "Rock-cut architecture, Krishna’s Butterball"
+    },
+    {
+        "question": "What is the best time to visit Mahabalipuram Shore Temple?",
+        "answer": "6:00 AM - 6:00 PM"
+    },
+    {
+        "question": "What is the entry fee for Mahabalipuram Shore Temple?",
+        "answer": "The entry fee is ₹40"
+    },
+    {
+        "question": "What local items can I buy near Mahabalipuram Shore Temple?",
+        "answer": "Seashells, Stone Sculptures"
+    },
+    {
+        "question": "What are the nearby food recommendations around Mahabalipuram Shore Temple?",
+        "answer": "Moonrakers, Sea View Restaurant"
+    },
+    {
+        "question": "What are the cultural etiquette guidelines for visiting Mahabalipuram Shore Temple?",
+        "answer": "Respect the no-touch zones near monuments"
+    },
+    {
+        "question": "What are some fun facts about Mahabalipuram Shore Temple?",
+        "answer": "This temple is one of the oldest structural stone temples in South India."
+    },
+    {
+        "question": "What is the historical significance of Karkodeshwarar Thirukkoyil?",
+        "answer": "This temple is dedicated to Lord Soundareswarar and his consort Velambal. It Built in A.D. 962. during the reign of Sundara Cholan \n More than 40 inscriptions and beautiful sculptures of the Cholsa, Pandya, and Hoysala periods exist."
+    },
+    {
+        "question": "Where is Karkodeshwarar Thirukkoyil located?",
+        "answer": "Karkodeshwarar Thirukkoyil is located in Ariyalur."
+    },
+    {
+        "question": "What are the key attractions of Karkodeshwarar Thirukkoyil?",
+        "answer": "No specific attractions listed."
+    },
+    {
+        "question": "What is the best time to visit Karkodeshwarar Thirukkoyil?",
+        "answer": "No specific timings mentioned."
+    },
+    {
+        "question": "What is the entry fee for Karkodeshwarar Thirukkoyil?",
+        "answer": "Entry is free or information not available."
+    },
+    {
+        "question": "What local items can I buy near Karkodeshwarar Thirukkoyil?",
+        "answer": "No specific shopping recommendations."
+    },
+    {
+        "question": "What are the nearby food recommendations around Karkodeshwarar Thirukkoyil?",
+        "answer": "No specific food recommendations available."
+    },
+    {
+        "question": "What are the cultural etiquette guidelines for visiting Karkodeshwarar Thirukkoyil?",
+        "answer": "No specific cultural guidelines mentioned."
+    },
+    {
+        "question": "What are some fun facts about Karkodeshwarar Thirukkoyil?",
+        "answer": "No fun facts available."
+    },
+    {
+        "question": "What is the historical significance of Meenakshi Amman Temple?",
+        "answer": "Information not available."
+    },
+    {
+        "question": "Where is Meenakshi Amman Temple located?",
+        "answer": "Meenakshi Amman Temple is located in Madurai."
+    },
+    {
+        "question": "What are the key attractions of Meenakshi Amman Temple?",
+        "answer": "A 2,500-year-old temple dedicated to Goddess Meenakshi, showcasing intricate sculptures and architecture."
+    },
+    {
+        "question": "What is the best time to visit Meenakshi Amman Temple?",
+        "answer": "100"
+    },
+    {
+        "question": "What is the entry fee for Meenakshi Amman Temple?",
+        "answer": "The entry fee is ₹All Ages"
+    },
+    {
+        "question": "What local items can I buy near Meenakshi Amman Temple?",
+        "answer": "Meenakshi Thirukalyanam"
+    },
+    {
+        "question": "What are the nearby food recommendations around Meenakshi Amman Temple?",
+        "answer": "8765432109"
+    },
+    {
+        "question": "What are the cultural etiquette guidelines for visiting Meenakshi Amman Temple?",
+        "answer": "Be cautious in crowded areas"
+    },
+    {
+        "question": "What are some fun facts about Meenakshi Amman Temple?",
+        "answer": "Remove footwear before entering temple"
+    },
+    {
+        "question": "What is the historical significance of Kodaikanal?",
+        "answer": "Information not available."
+    },
+    {
+        "question": "Where is Kodaikanal located?",
+        "answer": "Kodaikanal is located in Dindigul."
+    },
+    {
+        "question": "What are the key attractions of Kodaikanal?",
+        "answer": "Known as the “Princess of Hill Stations,” Kodaikanal offers serene landscapes, waterfalls, and pleasant weather year-round."
+    },
+    {
+        "question": "What is the best time to visit Kodaikanal?",
+        "answer": "Free"
+    },
+    {
+        "question": "What is the entry fee for Kodaikanal?",
+        "answer": "The entry fee is ₹All Ages"
+    },
+    {
+        "question": "What local items can I buy near Kodaikanal?",
+        "answer": "Summer Season Festival"
+    },
+    {
+        "question": "What are the nearby food recommendations around Kodaikanal?",
+        "answer": "9988776655"
+    },
+    {
+        "question": "What are the cultural etiquette guidelines for visiting Kodaikanal?",
+        "answer": "Carry warm clothes during evenings"
+    },
+    {
+        "question": "What are some fun facts about Kodaikanal?",
+        "answer": "Be respectful of the eco-sensitive zone"
+    },
+    {
+        "question": "What is the historical significance of Ooty (Udhagamandalam)?",
+        "answer": "Information not available."
+    },
+    {
+        "question": "Where is Ooty (Udhagamandalam) located?",
+        "answer": "Ooty (Udhagamandalam) is located in Nilgiris."
+    },
+    {
+        "question": "What are the key attractions of Ooty (Udhagamandalam)?",
+        "answer": "Popular hill station with tea plantations, scenic landscapes, and the Nilgiri Mountain Railway (UNESCO Heritage Site)."
+    },
+    {
+        "question": "What is the best time to visit Ooty (Udhagamandalam)?",
+        "answer": "20"
+    },
+    {
+        "question": "What is the entry fee for Ooty (Udhagamandalam)?",
+        "answer": "The entry fee is ₹All Ages"
+    },
+    {
+        "question": "What local items can I buy near Ooty (Udhagamandalam)?",
+        "answer": "Summer Festival"
+    },
+    {
+        "question": "What are the nearby food recommendations around Ooty (Udhagamandalam)?",
+        "answer": "9998887776"
+    },
+    {
+        "question": "What are the cultural etiquette guidelines for visiting Ooty (Udhagamandalam)?",
+        "answer": "Beware of steep slopes"
+    },
+    {
+        "question": "What are some fun facts about Ooty (Udhagamandalam)?",
+        "answer": "Dress modestly in public spaces"
+    },
+    {
+        "question": "What is the historical significance of Rameshwaram?",
+        "answer": "Information not available."
+    },
+    {
+        "question": "Where is Rameshwaram located?",
+        "answer": "Rameshwaram is located in Ramanathapuram."
+    },
+    {
+        "question": "What are the key attractions of Rameshwaram?",
+        "answer": "A sacred town associated with Lord Rama, famous for its temples and connection to the Ramayana."
+    },
+    {
+        "question": "What is the best time to visit Rameshwaram?",
+        "answer": "50"
+    },
+    {
+        "question": "What is the entry fee for Rameshwaram?",
+        "answer": "The entry fee is ₹All Ages"
+    },
+    {
+        "question": "What local items can I buy near Rameshwaram?",
+        "answer": "Mahashivratri, Kartikai Deepam"
+    },
+    {
+        "question": "What are the nearby food recommendations around Rameshwaram?",
+        "answer": "8762341298"
+    },
+    {
+        "question": "What are the cultural etiquette guidelines for visiting Rameshwaram?",
+        "answer": "Be cautious around open water"
+    },
+    {
+        "question": "What are some fun facts about Rameshwaram?",
+        "answer": "Dress modestly and respect local customs"
+    },
+    {
+        "question": "What is the historical significance of Yercaud?",
+        "answer": "Information not available."
+    },
+    {
+        "question": "Where is Yercaud located?",
+        "answer": "Yercaud is located in Salem."
+    },
+    {
+        "question": "What are the key attractions of Yercaud?",
+        "answer": "A picturesque hill station known for its coffee plantations, tranquil lakes, and viewpoints."
+    },
+    {
+        "question": "What is the best time to visit Yercaud?",
+        "answer": "Free"
+    },
+    {
+        "question": "What is the entry fee for Yercaud?",
+        "answer": "The entry fee is ₹All Ages"
+    },
+    {
+        "question": "What local items can I buy near Yercaud?",
+        "answer": "Summer Festival"
+    },
+    {
+        "question": "What are the nearby food recommendations around Yercaud?",
+        "answer": "9345678901"
+    },
+    {
+        "question": "What are the cultural etiquette guidelines for visiting Yercaud?",
+        "answer": "Drive cautiously on hairpin bends"
+    },
+    {
+        "question": "What are some fun facts about Yercaud?",
+        "answer": "Respect eco-sensitive areas"
+    },
+    {
+        "question": "What is the historical significance of Kanyakumari?",
+        "answer": "Information not available."
+    },
+    {
+        "question": "Where is Kanyakumari located?",
+        "answer": "Kanyakumari is located in Kanniyakumari."
+    },
+    {
+        "question": "What are the key attractions of Kanyakumari?",
+        "answer": "The southernmost tip of India, famous for its unique sunrise and sunset views, where the Indian Ocean, Arabian Sea, and Bay of Bengal converge."
+    },
+    {
+        "question": "What is the best time to visit Kanyakumari?",
+        "answer": "50"
+    },
+    {
+        "question": "What is the entry fee for Kanyakumari?",
+        "answer": "The entry fee is ₹All Ages"
+    },
+    {
+        "question": "What local items can I buy near Kanyakumari?",
+        "answer": "Chitra Pournami Festival"
+    },
+    {
+        "question": "What are the nearby food recommendations around Kanyakumari?",
+        "answer": "9876501234"
+    },
+    {
+        "question": "What are the cultural etiquette guidelines for visiting Kanyakumari?",
+        "answer": "Beware of strong tides"
+    },
+    {
+        "question": "What are some fun facts about Kanyakumari?",
+        "answer": "Respect local religious customs"
+    },
+    {
+        "question": "What is the historical significance of Chidambaram Nataraja Temple?",
+        "answer": "Information not available."
+    },
+    {
+        "question": "Where is Chidambaram Nataraja Temple located?",
+        "answer": "Chidambaram Nataraja Temple is located in Cuddalore."
+    },
+    {
+        "question": "What are the key attractions of Chidambaram Nataraja Temple?",
+        "answer": "An iconic temple dedicated to Lord Shiva in the form of Nataraja, known for its cosmic dance posture and intricate architecture."
+    },
+    {
+        "question": "What is the best time to visit Chidambaram Nataraja Temple?",
+        "answer": "Free"
+    },
+    {
+        "question": "What is the entry fee for Chidambaram Nataraja Temple?",
+        "answer": "The entry fee is ₹All Ages"
+    },
+    {
+        "question": "What local items can I buy near Chidambaram Nataraja Temple?",
+        "answer": "Natyanjali Dance Festival"
+    },
+    {
+        "question": "What are the nearby food recommendations around Chidambaram Nataraja Temple?",
+        "answer": "9876098765"
+    },
+    {
+        "question": "What are the cultural etiquette guidelines for visiting Chidambaram Nataraja Temple?",
+        "answer": "Be cautious with large crowds"
+    },
+    {
+        "question": "What are some fun facts about Chidambaram Nataraja Temple?",
+        "answer": "Remove footwear before entering temple"
+    }
+]}
